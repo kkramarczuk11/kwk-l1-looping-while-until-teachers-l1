@@ -1,4 +1,4 @@
-def loop
+def spell
  levitationforce = 6
 while levitationforce == 10
 
@@ -11,4 +11,4 @@ while levitationforce == 10
  end
  
  
-
+spell
