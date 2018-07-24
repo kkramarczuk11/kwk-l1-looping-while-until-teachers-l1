@@ -1,6 +1,15 @@
-def using_until
-        levitation_force = 6
-        #your code here
-    
-end
+def spell
+ levitationforce = 6
+while levitationforce <10
+
+   puts "wingardium Leviosa"
+  
+
+  levitationforce += 1
+ puts "#{levitationforce} move(s) completed!"
+ end 
+ end
+ 
+ 
+spell
 
