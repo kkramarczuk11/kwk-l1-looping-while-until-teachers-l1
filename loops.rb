@@ -1,6 +1,6 @@
 def spell
  levitationforce = 6
-while levitationforce == 10
+while levitationforce >10
 
    puts "wingardium Leviosa"
   
