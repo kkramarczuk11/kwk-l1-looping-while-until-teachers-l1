@@ -4,8 +4,7 @@ while levitationforce < 10
 
    puts "wingarium Leviosa"
 
-  levitationforce + 1
-  levitationforce + 1
+  levitationforce += 1
  
  end 
  end
